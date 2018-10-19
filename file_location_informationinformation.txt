@@ -1,0 +1,3 @@
+naukri_data.sql -> project1
+db_populator.py -> project1
+naukri_dataanalytics.csv -> project1/naukri_com/temp
